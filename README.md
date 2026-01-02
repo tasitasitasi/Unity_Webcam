@@ -23,10 +23,17 @@ This project was created as a learning exercise to:
 This is **not** a production-ready Unity application, but a focused
 technical demo.
 
+## Demonstration 
+
+<img width="1072" height="680" alt="Screenshot 2025-12-14 at 9 36 00 PM" src="https://github.com/user-attachments/assets/c2dc002f-3b87-4222-9bb9-e1c240ce4cc6" />
+
+
 ## Tech Stack
 - C#
 - Unity
 - OpenCvSharp
+
+
 
 ## Notes
 This project was developed on macOS (Apple Silicon).
